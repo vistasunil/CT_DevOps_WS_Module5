@@ -42,7 +42,7 @@ b) Install ansible on master Ubuntu GCP instance
 
 ### _Solution:_
 
-[**Ansible Installation officical document**](https://docs.ansible.com/ansible/latest/installation_guide/intro_installation.html#installing-ansible-on-ubuntu)
+Refer [**Ansible Installation officical document**](https://docs.ansible.com/ansible/latest/installation_guide/intro_installation.html#installing-ansible-on-ubuntu) for more options.
 
 i. Switch to ubuntu user. You can use any account that have sudo access also:
 
