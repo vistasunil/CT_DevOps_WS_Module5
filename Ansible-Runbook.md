@@ -256,7 +256,7 @@ Add below content:
 ```
 ---
   - hosts: slave
-    sudo: yes
+    become: yes
     roles:
     - first_role
 ```
